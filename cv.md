@@ -1,5 +1,5 @@
 # Перевозчиков Николай Юрьевич
-![Фотография](photo.jpg)
+<img src="photo.jpg" alt="Фотография" width="160">
 ## Контакты
 
 - Email: nikp3rs@yandex.ru
